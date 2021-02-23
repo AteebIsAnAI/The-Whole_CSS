@@ -1,0 +1,19 @@
+body{
+    background-color: blue;
+}
+
+h1{
+    background-color: orange;
+    color: brown;
+}
+
+p{
+    background-color: magenta;
+    color: aqua;
+}
+
+ol{
+    color: aliceblue;
+    background-color: brown;
+    border: 30px solid black;
+}
