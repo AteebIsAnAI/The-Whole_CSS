@@ -1,0 +1,17 @@
+body{
+    font-family: Helvetica;
+    background-color: #add8e6;
+}
+
+a{
+    border: 3px solid pink;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    max-width: 400px;
+    height: auto;
+}

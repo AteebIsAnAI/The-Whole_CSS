@@ -1,0 +1,25 @@
+#blue{
+    background-color: blue;
+    height: 10px;
+    width: 200px;
+    position: relative;
+    left: 50px;
+}
+
+#pink{
+    background-color: #8B1483;
+    height: 50px;
+    width: 250px;
+    position: relative;
+    left: 150px;
+    top: 30px;
+}
+
+#green{
+    background-color: #006B00;
+    height: 100px;
+    width: 300px;
+    position: relative;
+    left: 200px;
+    top: 60px;
+}

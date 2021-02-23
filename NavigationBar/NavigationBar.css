@@ -1,0 +1,18 @@
+body{
+    background-color: #E2E6F4;
+}
+
+div{
+    background-color: #2E2E30;
+    border: 20px solid #2E2E30;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+
+a:hover{
+    background-color: #050507;
+}

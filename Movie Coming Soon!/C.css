@@ -1,0 +1,44 @@
+body{
+    background-color: #312F37;
+}
+
+h1{
+    font-family: Lucida Console;
+    text-align: center;
+    color: #F6A1AF;
+}
+
+#img1{
+    position: relative;
+    top: 50px;
+    left: 150px;
+    height: 200px;
+    width: 150px;
+}
+
+#img2{
+    position: relative;
+    top: 50px;
+    left: 250px;
+    height: 200px;
+    width: 150px;
+}
+
+div{
+    position: relative;
+    left: 300px;
+    background-color: #494250;
+    height: 300px;
+    width: 700px;
+}
+
+#p1{
+    position: relative;
+    top: 193px;
+    right: 6px;
+    color: #F6A1AF;
+    background-color: #494250;
+    width: 460px;
+    height: 30px;
+    font-size: 20px;
+}
